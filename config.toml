@@ -1,4 +1,16 @@
-theme = "coder" # set the theme
+baseurl = "/"
+title = "Jarrod Nelson - Web Developer"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params] # theme parameters
     author = "Jarrod Nelson" # author's name
