@@ -3,7 +3,7 @@ theme = "coder" # set the theme
 [params] # theme parameters
     author = "Jarrod Nelson" # author's name
     info = "Up and Coming Web Developer | Watch This Space!!" # author's job title or info
-    description = "John Doe's personal website" # site description
+    description = "Jarrod Nelson's personal website" # site description
     keywords = "blog, developer, personal, portfolio" # site keywords
     
 # Social links
