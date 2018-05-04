@@ -26,11 +26,11 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Twitter"
     weight = 2
-    url = "https://twitter.com/johndoe/"
+    url = ""
 [[params.social]]
     name = "LinkedIn"
     weight = 3
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/jarrodnelson/"
 
 # Menu links
 [[menu.main]]
