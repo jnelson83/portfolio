@@ -33,6 +33,7 @@ I have been on a quest to learn web development for the past couple of months, p
 * jQuery (just scratched the surface)
 * Hugo (static site generator) - I have used it to produce a few websites that are at various stages of development, including this one.
 * Markdown (getting better each time I use it)
+* Git (a steep learning curve!)
 
 I started off following a program called 'The Complete Web Developer in 2018: Zero to Mastery' on Udemy taught by Andrei Neagoie. He is an engaging teacher and he has built a vibrant Slack community that folows along with the course. There are periodic coding challenges and other activities to participate it. It is well worth the $15AUD or so that I paid to access it.
 
