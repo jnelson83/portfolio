@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Jarrod Nelson - Web Developer"
+title = "Jarrod Nelson | Web Developer"
 
 theme = "coder"
 
@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 
 [params] # theme parameters
     author = "Jarrod Nelson" # author's name
-    info = "Up and Coming Web Developer | Watch This Space!!" # author's job title or info
+    info = "Up-and-coming Web Developer | Watch This Space!" # author's job title or info
     description = "Jarrod Nelson's personal website" # site description
     keywords = "blog, developer, personal, portfolio" # site keywords
     
