@@ -11,4 +11,4 @@ Personal Portfolio page from scratch with HTML and CSS - 50 hours across a tribu
 
 I spent 4 and a bit hours building my portfolio from scratch, it was quite liberating to find out what I can get done with minimal help from documentation. The site is still incredibly raw but it is probably 85% finished.
 
-I probably watche 30 minutes of youtube tutorials prior to starting on the new site. I had been piecing one together after building a skeleton of content. I discovered that it is more beneficial to layout the site using the grid before adding content. An analogy could be laying down a solid foundation comes before building walls and painting the ceiling.
+I probably watched 30 minutes of youtube tutorials prior to starting on the new site. I had been piecing one together after building a skeleton of content. I discovered that it is more beneficial to layout the site using the grid before adding content. An analogy could be laying down a solid foundation comes before building walls and painting the ceiling.
